@@ -1,5 +1,5 @@
 # Some-Useful-Data-in-JSON-Format
-``` Want a JSON object of every single country in the world, and their country codes too? Got it! Want an array of states in the United States? Got that too! ```
+Want a JSON object of every single country in the world, and their country codes too? Got it! Want an array of states in the United States? Got that too!
 
 ## How To Use:
 ``` JSON (JavaScript Object Notation) is a very popular format for data transfer, storage and exchange. JSON is used in most computing fields and applications: web development, mobile application development, data science, etc.```
@@ -10,9 +10,8 @@
 ``` JSON.parse(JSONObject) ```
 
 ### Python 
-``` import json ```
-
-``` json.loads(JSONObject) ```
+``` import json 
+json.loads(JSONObject) ```
 
 ### PHP
 ``` json_decode(JSONObject) ```
