@@ -10,8 +10,8 @@ Want a JSON object of every single country in the world, and their country codes
 ``` JSON.parse(JSONObject) ```
 
 ### Python 
-``` import json 
-json.loads(JSONObject) ```
+``` import json ```
+``` json.loads(JSONObject) ```
 
 ### PHP
 ``` json_decode(JSONObject) ```
