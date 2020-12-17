@@ -1,0 +1,8 @@
+The author wishes to credit the following individuals, organisations and document resources for the information provided in this repository.
+
+===============================================================================================
+
+CAR-BRANDS-AND-THEIR-MODELS.JSON
+https://private-anon-b79e729be9-carsapi1.apiary-mock.com/manufacturers
+
+

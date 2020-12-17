@@ -1,0 +1,146 @@
+{
+    Abuja: {
+        name: 'Abuja Federal Capital Territory',
+        code: 'NG-FC'
+    },
+    Abia: {
+        name: 'Abia',
+        code: 'NG-AB'
+    },
+    Adamawa: {
+        name: 'Adamawa',
+        code: 'NG-AD'
+    },
+    AkwaIbom: {
+        name: 'Akwa Ibom',
+        code: 'NG-AK'
+    },
+    Bauchi: {
+        name: 'Bauchi',
+        code: 'NG-BA'
+    },
+    Bayelsa: {
+        name: 'Bayelsa',
+        code: 'NG-BY'
+    },
+    Benue: {
+        name: 'Benue',
+        code: 'NG-BE'
+    },
+    Borno: {
+        name: 'Borno',
+        code: 'NG-BO'
+    },
+    CrossRiver: {
+        name: 'Cross River',
+        code: 'NG-CR'
+    },
+    Delta: {
+        name: 'Delta',
+        code: 'NG-DE'
+    },
+    Ebonyi: {
+        name: 'Ebonyi',
+        code: 'NG-EB'
+    },
+    Edo: {
+        name: 'Edo',
+        code: 'NG-ED'
+    },
+    Ekiti: {
+        name: 'Ekiti',
+        code: 'NG-EK'
+    },
+    Enugu: {
+        name: 'Enugu',
+        code: 'NG-EN'
+    },
+    Gombe: {
+        name: 'Gombe',
+        code: 'NG-GO'
+    },
+    Imo: {
+        name: 'Imo',
+        code: 'NG-IM'
+    },
+    Jigawa: {
+        name: 'Jigawa',
+        code: 'NG-JI'
+    },
+    Kaduna: {
+        name: 'Kaduna',
+        code: 'NG-KD'
+    },
+    Kano: {
+        name: 'Kano',
+        code: 'NG-KN'
+    },
+    Katsina: {
+        name: 'Katsina',
+        code: 'NG-KT'
+    },
+    Kebbi: {
+        name: 'Kebbi',
+        code: 'NG-KE'
+    },
+    Kogi: {
+        name: 'Kogi',
+        code: 'NG-KO'
+    },
+    Kwara: {
+        name: 'Kwara',
+        code: 'NG-KW'
+    },
+    Lagos: {
+        name: 'Lagos',
+        code: 'NG-LA'
+    },
+    Nasarawara: {
+        name: 'Nasarawa',
+        code: 'NG-NA'
+    },
+    Niger: {
+        name: 'Niger',
+        code: 'NG-NI'
+    },
+    Ogun: {
+        name: 'Ogun',
+        code: 'NG-OG'
+    },
+    Ondo: {
+        name: 'Ondo',
+        code: 'NG-ON'
+    },
+    Osun: {
+        name: 'Osun',
+        code: 'NG-OS'
+    },
+    Oyo: {
+        name: 'Oyo',
+        code: 'NG-OY'
+    },
+    Plateau: {
+        name: 'Plateau',
+        code: 'NG-PL'
+    },
+    Rivers: {
+        name: 'Rivers',
+        code: 'NG-RI'
+    },
+    Sokoto: {
+        name: 'Sokoto',
+        code: 'NG-SO'
+    },
+    Taraba: {
+        name: 'Taraba',
+        code: 'NG-TA'
+    },
+    Yobe: {
+        name: 'Yobe',
+        code: 'NG-YO'
+    },
+    Zamfara: {
+        name: 'Zamfara',
+        code: 'NG-ZA'
+    }
+}
